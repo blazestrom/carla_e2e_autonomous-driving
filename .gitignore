@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pth
+*.zip
+*.egg
+*.whl
+*.mp4
+*.exe
+*.log
+*.tmp
+CARLA_0.9.16/
+dataset/images/
